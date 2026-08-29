@@ -25,41 +25,41 @@ This repository publishes the runnable Modal harnesses, machine-readable measure
 
 ![Synchronized 3-by-2 animated comparison of the six completed talking-avatar model results](assets/previews/talking-avatar-results-grid.gif)
 
-This compact preview is a 2.4-second, 10 fps center crop for quick scanning, not quality evaluation. The public MP4s are intentionally muted; GitHub renders the full-resolution H.264 videos below as inline players.
+This compact preview is a 2.4-second, 10 fps center crop for quick scanning, not quality evaluation. The full-resolution H.264 videos below are the public results used in the [benchmark article](https://tight.studio/blog/open-source-talking-avatar-models/).
 
 ### Wan2.2-S2V-14B
 
-https://github.com/user-attachments/assets/14bf6509-e050-4820-9683-bfabbe9acb7f
+https://tight.studio/blog/open-source-talking-avatar-models/wan22-s2v-stock-avatar.mp4
 
 Stable identity and background with restrained motion; 512 x 896 at 16 fps.
 
 ### LongCat-Video-Avatar 1.5
 
-https://github.com/user-attachments/assets/9763029d-2bee-43f3-be62-eda3a43db6e5
+https://tight.studio/blog/open-source-talking-avatar-models/longcat-stock-avatar.mp4
 
 The most expressive head and body performance, including motion absent from the reference frame; 480 x 832 at 25 fps.
 
 ### LiveAvatar
 
-https://github.com/user-attachments/assets/6a3dc009-3e6d-4285-a38c-c2204893ca82
+https://tight.studio/blog/open-source-talking-avatar-models/liveavatar-stock-avatar.mp4
 
 The sharpest heavyweight identity with convincing, restrained expression; 384 x 704 at 25 fps.
 
 ### SoulX-FlashTalk
 
-https://github.com/user-attachments/assets/41fde8ef-a1ed-4a3f-8048-9bfb25b243bb
+https://tight.studio/blog/open-source-talking-avatar-models/soulx-flashtalk-stock-avatar.mp4
 
 A stable face with clear mouth motion; 416 x 720 at 25 fps.
 
 ### EchoMimicV3-Flash
 
-https://github.com/user-attachments/assets/47b76f60-cf70-4606-99ce-568b177c6128
+https://tight.studio/blog/open-source-talking-avatar-models/echomimic-v3-flash-stock-avatar.mp4
 
 The strongest quality-to-infrastructure balance in this test; 480 x 848 at 25 fps.
 
 ### SoulX-FlashHead Lite
 
-https://github.com/user-attachments/assets/aa3502bf-99ae-4db7-a0f8-c58eaa1ad608
+https://tight.studio/blog/open-source-talking-avatar-models/soulx-flashhead-stock-avatar.mp4
 
 The lowest-memory result, with a tighter crop and softer identity; 512 x 512 at 25 fps.
 

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the technical report."
+title: "A Deployment Benchmark of Popular Open-Source Talking-Avatar Models Released in 2025-2026"
+type: report
+authors:
+  - family-names: Jiang
+    given-names: Ethan
+    affiliation: Tight Studio
+version: 1.0.0
+date-released: 2026-08-29
+repository-code: "https://github.com/tight-studio/open-source-talking-avatar-benchmark"
+url: "https://tight.studio/blog/open-source-talking-avatar-models/"
+license: MIT
+keywords:
+  - talking avatar
+  - audio-driven video
+  - generative video
+  - GPU benchmark
+  - open source

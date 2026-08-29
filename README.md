@@ -29,37 +29,37 @@ This compact preview is a 2.4-second, 10 fps center crop for quick scanning, not
 
 ### Wan2.2-S2V-14B
 
-https://tight.studio/blog/open-source-talking-avatar-models/wan22-s2v-stock-avatar.mp4
+https://github.com/user-attachments/assets/ef826d41-2317-4d9e-a296-6f4975ba3d9a
 
 Stable identity and background with restrained motion; 512 x 896 at 16 fps.
 
 ### LongCat-Video-Avatar 1.5
 
-https://tight.studio/blog/open-source-talking-avatar-models/longcat-stock-avatar.mp4
+https://github.com/user-attachments/assets/ae6892a4-5500-41be-ba83-76f70c3940f3
 
 The most expressive head and body performance, including motion absent from the reference frame; 480 x 832 at 25 fps.
 
 ### LiveAvatar
 
-https://tight.studio/blog/open-source-talking-avatar-models/liveavatar-stock-avatar.mp4
+https://github.com/user-attachments/assets/d1feebc7-9db5-4595-a608-1a3e34c64509
 
 The sharpest heavyweight identity with convincing, restrained expression; 384 x 704 at 25 fps.
 
 ### SoulX-FlashTalk
 
-https://tight.studio/blog/open-source-talking-avatar-models/soulx-flashtalk-stock-avatar.mp4
+https://github.com/user-attachments/assets/054f03a4-e871-4de1-90a8-9f7711832478
 
 A stable face with clear mouth motion; 416 x 720 at 25 fps.
 
 ### EchoMimicV3-Flash
 
-https://tight.studio/blog/open-source-talking-avatar-models/echomimic-v3-flash-stock-avatar.mp4
+https://github.com/user-attachments/assets/83849040-103f-4c44-b478-0091a343f7de
 
 The strongest quality-to-infrastructure balance in this test; 480 x 848 at 25 fps.
 
 ### SoulX-FlashHead Lite
 
-https://tight.studio/blog/open-source-talking-avatar-models/soulx-flashhead-stock-avatar.mp4
+https://github.com/user-attachments/assets/749d33d9-4531-433f-8622-7e43db0cc3d7
 
 The lowest-memory result, with a tighter crop and softer identity; 512 x 512 at 25 fps.
 

@@ -23,15 +23,43 @@ This repository publishes the runnable Modal harnesses, machine-readable measure
 
 ## Result gallery
 
-The public MP4s are intentionally muted. Click a poster to open the corresponding video.
+The public MP4s are intentionally muted. GitHub renders the attached H.264 videos below as inline players.
 
-| Wan2.2-S2V | LongCat Avatar 1.5 | LiveAvatar |
-|---|---|---|
-| [![Wan2.2 output](assets/posters/wan22-s2v-stock-avatar-poster.jpg)](results/videos/wan22-s2v-stock-avatar.mp4) | [![LongCat output](assets/posters/longcat-stock-avatar-poster.jpg)](results/videos/longcat-stock-avatar.mp4) | [![LiveAvatar output](assets/posters/liveavatar-stock-avatar-poster.jpg)](results/videos/liveavatar-stock-avatar.mp4) |
+### Wan2.2-S2V-14B
 
-| SoulX-FlashTalk | EchoMimicV3-Flash | SoulX-FlashHead Lite |
-|---|---|---|
-| [![FlashTalk output](assets/posters/soulx-flashtalk-stock-avatar-poster.jpg)](results/videos/soulx-flashtalk-stock-avatar.mp4) | [![EchoMimic output](assets/posters/echomimic-v3-flash-stock-avatar-poster.jpg)](results/videos/echomimic-v3-flash-stock-avatar.mp4) | [![FlashHead output](assets/posters/soulx-flashhead-stock-avatar-poster.jpg)](results/videos/soulx-flashhead-stock-avatar.mp4) |
+https://github.com/user-attachments/assets/14bf6509-e050-4820-9683-bfabbe9acb7f
+
+Stable identity and background with restrained motion; 512 x 896 at 16 fps.
+
+### LongCat-Video-Avatar 1.5
+
+https://github.com/user-attachments/assets/9763029d-2bee-43f3-be62-eda3a43db6e5
+
+The most expressive head and body performance, including motion absent from the reference frame; 480 x 832 at 25 fps.
+
+### LiveAvatar
+
+https://github.com/user-attachments/assets/6a3dc009-3e6d-4285-a38c-c2204893ca82
+
+The sharpest heavyweight identity with convincing, restrained expression; 384 x 704 at 25 fps.
+
+### SoulX-FlashTalk
+
+https://github.com/user-attachments/assets/41fde8ef-a1ed-4a3f-8048-9bfb25b243bb
+
+A stable face with clear mouth motion; 416 x 720 at 25 fps.
+
+### EchoMimicV3-Flash
+
+https://github.com/user-attachments/assets/47b76f60-cf70-4606-99ce-568b177c6128
+
+The strongest quality-to-infrastructure balance in this test; 480 x 848 at 25 fps.
+
+### SoulX-FlashHead Lite
+
+https://github.com/user-attachments/assets/aa3502bf-99ae-4db7-a0f8-c58eaa1ad608
+
+The lowest-memory result, with a tighter crop and softer identity; 512 x 512 at 25 fps.
 
 ## Repository map
 

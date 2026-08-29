@@ -72,6 +72,16 @@ modal run runners/modal/ltx23_dubit_modal.py \
 
 LTX-2.3 DubIt requires its own voiced reference video and official checkpoint authorization. The benchmark stopped during weight preparation because that authorization was unavailable; no substitute mirror was used.
 
+## Rebuild the README preview
+
+On macOS, regenerate the 720 x 480 animated comparison from the six muted result videos:
+
+```bash
+swift scripts/build_preview.swift
+```
+
+The script samples the same 2.4-second interval from every output, center-crops each frame, burns in model labels, and writes `assets/previews/talking-avatar-results-grid.gif` at 10 fps. The GIF is a compact index; use the full MP4s for visual evaluation.
+
 ## Measurement definitions
 
 - **Elapsed time:** Wall-clock time inside the generation function from container start until the final MP4 is ready to return. Persistent weight download time is excluded; model load is included.

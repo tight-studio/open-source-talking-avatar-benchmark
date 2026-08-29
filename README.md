@@ -23,7 +23,9 @@ This repository publishes the runnable Modal harnesses, machine-readable measure
 
 ## Result gallery
 
-The public MP4s are intentionally muted. GitHub renders the attached H.264 videos below as inline players.
+![Synchronized 3-by-2 animated comparison of the six completed talking-avatar model results](assets/previews/talking-avatar-results-grid.gif)
+
+This compact preview is a 2.4-second, 10 fps center crop for quick scanning, not quality evaluation. The public MP4s are intentionally muted; GitHub renders the full-resolution H.264 videos below as inline players.
 
 ### Wan2.2-S2V-14B
 
@@ -64,7 +66,7 @@ The lowest-memory result, with a tighter crop and softer identity; 512 x 512 at 
 ## Repository map
 
 ```text
-assets/           Reference image and result posters
+assets/           Reference image, result posters, and compact animated preview
 data/             CSV and JSON benchmark records
 report/           Versioned PDF technical report
 results/videos/   Muted generated outputs
